@@ -1,0 +1,25 @@
+
+body{
+    background:#ffffff url('../background.jpg') no-repeat fixed top;
+    background-size: cover;
+}
+.main{
+    width:90%;
+    margin-top:15%;
+}
+
+.button{
+    margin-top:10px;
+    width: 100%;
+}
+a{
+    display: block;
+}
+#quote-box{
+    height: 40%;
+    max-height: 50%;
+}
+
+#title{
+    margin-top:15px;
+}
